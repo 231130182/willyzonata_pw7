@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  background-color: aqua;
+  border-radius: 50px;
+  border-bottom: 2px solid red;
+}
+
+.nav a {
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.nav a:hover {
+  color: red;
+}
+
+article.pertama {
+  background-color: aquamarine;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+article.kedua {
+  background-color: aquamarine;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
